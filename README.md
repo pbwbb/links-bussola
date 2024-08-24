@@ -1,5 +1,9 @@
 # links-bussola
 
+# Slides
+
+* [Link para a apresentação no canva](https://www.canva.com/design/DAGOuPNXzZE/ppaSjFGAF_SdiRNcza_SQA/edit?utm_content=DAGOuPNXzZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Cartilhas
 * [Cartilhas](https://cartilha.cert.br/fasciculos/)
 * [Cartilha malware](https://cartilha.cert.br/fasciculos/codigos-maliciosos/fasciculo-codigos-maliciosos.pdf)
